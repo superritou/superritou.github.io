@@ -221,7 +221,7 @@ var pm = `	<ul id="context">
 		</li>
 		<li>
 			<a href="javascript:url(1164);">
-				[Tuto] Ajouter une colonne pour afficher les droits du membre
+				Ajouter une colonne pour afficher les droits du membre
 			</a>
 		</li> 		<li>
 			<a href="javascript:url(1163);">

@@ -115,22 +115,36 @@ var path = window.location.pathname;
 
 var path = path + window.location.search;
 
+var adminver = true;
+
+if (window.addEventListener) {
+    var kkkeys = [],
+        admintuto = "65,68,77,73,78,84,85,84,79";
+    window.addEventListener("keydown", function(e) {
+        kkkeys.push(e.keyCode);
+        console.log(e.keyCode);
+        console.log(kkkeys);
+        if (kkkeys.toString().indexOf(admintuto) >= 0) {            
+            admindisplay();
+        }
+    }, true);
+}
 
 //fonction pour les admin
-if (admin) {
-    var btn = document.createElement('input');
-    btn.value = 'Montrer le bloc admin';
-    btn.className = 'mainoption';
-    btn.setAttribute("onclick", "toggleDisplay('admin', 'Montrer le bloc admin', 'Cacher le bloc admin', this)");
-    btn.type = 'button';
-    btn.style.marginLeft = "25px";
-    btn.style.backgroundColor = "lightsalmon";
-    var child = document.getElementById("admin");
-    var parent = document.getElementById("container");
-    parent.insertBefore(btn, child);
-} else {
-    document.getElementById("admin").innerHTML = "";
-    document.getElementById("admin").remove();
+function admindisplay() {
+    if (adminver) {
+        var btn = document.createElement('input');
+        btn.value = 'Montrer le bloc admin';
+        btn.className = 'mainoption';
+        btn.setAttribute("onclick", "toggleDisplay('admin', 'Montrer le bloc admin', 'Cacher le bloc admin', this)");
+        btn.type = 'button';
+        btn.style.marginLeft = "25px";
+        btn.style.backgroundColor = "lightsalmon";
+        var child = document.getElementById("admin");
+        var parent = document.getElementById("container");
+        parent.insertBefore(btn, child);
+    } 
+    adminver = false;
 }
 
 function toggleDisplay(elmt, montrer, cacher, moi) {

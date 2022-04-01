@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1316);">
+				Faire une redirection du portail vers le forum automatiquement
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1310);">
 				Personaliser et donner une autre présentation de vos résultats des sondages
 			</a>

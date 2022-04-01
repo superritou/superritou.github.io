@@ -1,7 +1,7 @@
 var pm = `	<ul id="context">
 		<li>
 			<a href="javascript:url(1316);">
-				Faire une redirection du portail vers le forum automatiquement
+				Faire une redirection du portail vers le forum automatiquement en cas de souci avec le portail
 			</a>
 		</li>
 		<li>

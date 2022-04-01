@@ -8,6 +8,9 @@ font-family: 'Lato', sans-serif;
 font-family: 'Noto Sans JP', sans-serif;
 font-family: 'Yellowtail', cursive;
 */
+html {
+    scroll-behavior: smooth;
+}
 body {
     padding: 50px 0 !important;
     font-family: 'Bitter', 'Lato', 'Noto Sans JP', sans-serif, serif;

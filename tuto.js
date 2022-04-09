@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1322);">
+				Créer des sondages avec des images dans les options
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1321);">
 				Utiliser un domaine pour votre forum
 			</a>

@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1321);">
+				Utiliser un domaine pour votre forum
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1319);">
 				Ajouter un sélecteur de couleur et de taille sur chaque message et indépendamment des uns des autres
 			</a>

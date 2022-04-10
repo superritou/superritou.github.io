@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1324);">
+				Mettre une fonction pour permettre aux membres d'agrandir et réduire du texte sur une zone précise
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1322);">
 				Créer des sondages avec des images dans les options
 			</a>

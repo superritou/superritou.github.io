@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1326);">
+				Customiser et afficher la liste d'anniversaire seulement s’il y en a
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1325);">
 				Customiser la page FAQ en incluant des animations pour alléger visuellement le contenu de la page avec une option de zoom sur les réponses aux questions.
 			</a>

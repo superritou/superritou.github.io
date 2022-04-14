@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1327);">
+				Supprimer le  délai d'attente sur la page d'affichage de messages de confirmation
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1326);">
 				Customiser et afficher la liste d'anniversaire seulement s’il y en a
 			</a>

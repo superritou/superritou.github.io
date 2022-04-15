@@ -1593,11 +1593,6 @@ var pm = `	<ul id="context">
 			</a>
 		</li>
 		<li>
-			<a href="javascript:url(414);">
-				Changer la présentation des messages avec un cadre dynamique
-			</a>
-		</li>
-		<li>
 			<a href="javascript:url(412);">
 				Changer la police de votre forum
 			</a>

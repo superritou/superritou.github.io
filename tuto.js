@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1328);">
+				Bloquer le forum aux utilisateurs qui n'ont pas JavaScript d'activé
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1327);">
 				Supprimer le  délai d'attente sur la page d'affichage de messages de confirmation
 			</a>

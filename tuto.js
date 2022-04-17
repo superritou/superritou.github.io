@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1330);">
+				Jouer un son &agrave; l'arrivée d'un nouveau message dans le chat
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1329);">
 				Ajoutez &agrave; côté du chat une liste de membre connecté qui se met &agrave; jour automatiquement en gardant la connexion automatique &agrave; celui-ci
 			</a>

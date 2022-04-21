@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1332);">
+				Afficher un message aux membres ayant moins de « X » messages
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1331);">
 				Afficher le nombre de message privé dans toutes les catégories présentes dans cette même page
 			</a>

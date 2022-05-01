@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1336);">
+				Ajouter un bouton effacer les cookies &agrave; votre forum
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1332);">
 				Afficher un message aux membres ayant moins de « X » messages
 			</a>

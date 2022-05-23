@@ -1,7 +1,7 @@
 var pm = `	<ul id="context">
 		<li>
 			<a href="javascript:url(1337);">
-				Scroller automatiquement &agrave; une certaine hauteur sur les pages de votre forum au chargement de celles-ci
+				Ajoutez un scroll automatique &agrave; une certaine hauteur sur les pages de votre forum au chargement de celles-ci
 			</a>
 		</li>
 		<li>

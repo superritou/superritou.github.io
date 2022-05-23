@@ -1,5 +1,10 @@
 var pm = `	<ul id="context">
 		<li>
+			<a href="javascript:url(1337);">
+				Scroller automatiquement &agrave; une certaine hauteur sur les pages de votre forum au chargement de celles-ci
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1336);">
 				Ajouter un bouton effacer les cookies &agrave; votre forum
 			</a>

@@ -1878,11 +1878,6 @@ var pm = `	<ul id="context">
 			</a>
 		</li>
 		<li>
-			<a href="javascript:url(220);">
-				Avoir deux images pour les Messages privés
-			</a>
-		</li>
-		<li>
 			<a href="javascript:url(218);">
 				Re-dimension automatique des avatars
 			</a>

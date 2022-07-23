@@ -1,4 +1,10 @@
 var pm = `	<ul id="context">
+
+		<li>
+			<a href="javascript:url(1340);">
+				Modifiez l'ordre d'affichage de la liste d'icônes sur la page de création ou d'édition d'un sujet
+			</a>
+		</li>
 		<li>
 			<a href="javascript:url(1337);">
 				Ajoutez un scroll automatique &agrave; une certaine hauteur sur les pages de votre forum au chargement de celles-ci

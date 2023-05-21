@@ -1,6 +1,11 @@
 var pm = `	<ul id="context">
 
 		<li>
+			<a href="javascript:url(1359);">
+				Installer un espace sous forme d'un bloc prévu pour le recrutement.
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1340);">
 				Modifiez l'ordre d'affichage de la liste d'icônes sur la page de création ou d'édition d'un sujet
 			</a>

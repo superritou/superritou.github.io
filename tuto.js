@@ -1,6 +1,11 @@
 var pm = `	<ul id="context">
 
 		<li>
+			<a href="javascript:url(1362);">
+				Installer une image spécifique a chaque sujet sur la page de consultation de tout les sujets.
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1359);">
 				Installer un espace sous forme d'un bloc prévu pour le recrutement.
 			</a>

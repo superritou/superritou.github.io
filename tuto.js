@@ -1,6 +1,11 @@
 var pm = `	<ul id="context">
 
 		<li>
+			<a href="javascript:url(1366);">
+				Passer d'un forum large à un court et centrer
+			</a>
+		</li>
+		<li>
 			<a href="javascript:url(1362);">
 				Installer une image spécifique a chaque sujet sur la page de consultation de tout les sujets.
 			</a>

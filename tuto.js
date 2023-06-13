@@ -2,7 +2,7 @@ var pm = `	<ul id="context">
 
 		<li>
 			<a href="javascript:url(1366);">
-				Passer d'un forum large à un court et centrer
+				Centrer et donner la largeur de son choix a son forum
 			</a>
 		</li>
 		<li>

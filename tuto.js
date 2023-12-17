@@ -1,5 +1,9 @@
 var pm = `	<ul id="context">
-
+		<li>
+			<a href="javascript:url(1381);">
+				Afficher un widget pour une animation de Noel
+			</a>
+		</li>
 		<li>
 			<a href="javascript:url(1366);">
 				Centrer et donner la largeur de son choix a son forum

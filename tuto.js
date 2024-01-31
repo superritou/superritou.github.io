@@ -1,4 +1,10 @@
 var pm = `	<ul id="context">
+
+		<li>
+			<a href="javascript:url(1387);">
+				Modifier l'apparence du Spoiler et de la partie caché
+			</a>
+		</li>
 		<li>
 			<a href="javascript:url(1381);">
 				Afficher un widget pour une animation de Noel

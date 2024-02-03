@@ -1,5 +1,9 @@
 var pm = `	<ul id="context">
-
+		<li>
+			<a href="javascript:url(1388);">
+				Mettre un spoiler simple sur le bloc anniversaire
+			</a>
+		</li>
 		<li>
 			<a href="javascript:url(1387);">
 				Modifier l'apparence du Spoiler et de la partie caché

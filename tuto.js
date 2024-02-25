@@ -1,4 +1,11 @@
 var pm = `	<ul id="context">
+
+
+		<li>
+			<a href="javascript:url(1389);">
+				Afficher le nombre de visite de votre visiteur ou membre
+			</a>
+		</li>
 		<li>
 			<a href="javascript:url(1388);">
 				Mettre un spoiler simple sur le bloc anniversaire
